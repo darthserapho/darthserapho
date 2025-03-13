@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fayza Sadia, AKA DarthSerapho.</h1>
+<h1 align="center">Hi, I'm Fayza Sadia, AKA DarthSerapho.</h1>
 <h3 align="center">I'm passionate about Computer Science.</h3>
 
-- ⚡ Fun fact **I love cats**
+A passionate writer and a highly creative individual with a deep love for **computer science and storytelling**.
+
+I’ve always been fascinated by how things work - from **unraveling the inner mechanics of computers** to crafting words that captivate audiences. My curiosity led me to explore **programming and digital content creation**, allowing me to blend logic with creativity. Beyond that, my creativity extends to **art, dancing and singing** fueling my innovative mindset. I have hands-on experience in **Python, JavaScript, and Django** gained through my internship at Shadhin Lab LLC. To validate my skills, I have earned certifications in **Python, C++, Network Security**, and continuously expand my expertise in the field of **Computer Science**. 
+
+I am always eager to learn, create, and push boundaries.
+
+⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
